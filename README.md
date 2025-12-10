@@ -1,5 +1,5 @@
 
-#🎯 Digital Logic Design Final Project
+# 🎯 Digital Logic Design Final Project
 # Dual Dice Roller Using Counters & 555 Timer (Proteus Simulation)
 
 ## Overview
