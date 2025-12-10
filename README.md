@@ -94,6 +94,6 @@ Maheen Irfan
 
 Special thanks to our instructors for their guidance and support:
 
-Sir Shoial Abbas
+Sir Sohail Abbas
 
 Sir Talha Tariq
